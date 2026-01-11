@@ -1,1 +1,1 @@
-# synthlabel
+# SynthLabel Studio
